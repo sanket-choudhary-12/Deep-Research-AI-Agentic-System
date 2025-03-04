@@ -1,7 +1,6 @@
 streamlit
 langchain
 langgraph
-tavily
 tavily-python
 together
 python-dotenv
